@@ -1,0 +1,6 @@
+transformers
+tensorflow
+torch
+torchvision
+torchaudio
+editdistance
