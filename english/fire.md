@@ -48,3 +48,16 @@ Ex 3 page 50
 4. china
 5. Finnish - finlandzki
 
+scientific science
+
+chemical chemistry
+biological biology
+physical physics
+genetic genetics
+
+discovery
+theory
+drugs tests
+
+
+
