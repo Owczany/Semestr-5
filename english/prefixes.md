@@ -18,6 +18,3 @@ goverment -> anti goverment
 | de-     |
 | dis-    |  | |
 | down-    
-
-
-
