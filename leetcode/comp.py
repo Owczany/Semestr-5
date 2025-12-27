@@ -10,5 +10,4 @@ def countPermutations( complexity: List[int]) -> int:
               if complexity[i] <= root:
                     return 0
 
-
         return factorial(n-1)
