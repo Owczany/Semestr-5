@@ -1,2 +1,7 @@
 .venv
 .DS_Store
+
+
+# Projekty na uczelnię w osobnych repozytoriach
+algorytmy_ewolucyjne/Mona-Lisa-Problem
+uczenie_maszynowe/Food-Delivery-Time
