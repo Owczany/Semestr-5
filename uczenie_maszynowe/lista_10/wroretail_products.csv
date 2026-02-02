@@ -1,0 +1,101 @@
+product_id,product_name,category,min_price,max_price,base_popularity
+1,Telewizor Samsung 55,Elektronika,1200,2500,1.2
+2,Glosnik Bluetooth JBL,Elektronika,150,400,1.5
+3,Sluchawki Sony WH-1000,Elektronika,800,1200,1.3
+4,Kamera GoPro Hero,Elektronika,1200,2000,0.8
+5,Smartwatch Garmin,Elektronika,600,1500,1.0
+6,Laptop Dell Inspiron,Komputery,2500,4000,1.4
+7,Komputer stacjonarny HP,Komputery,2000,3500,0.9
+8,Monitor LG 27 cali,Komputery,800,1500,1.2
+9,Klawiatura Logitech,Komputery,150,400,1.6
+10,Myszka gamingowa Razer,Komputery,200,500,1.4
+11,iPhone 15,Smartfony,4000,5500,1.8
+12,Samsung Galaxy S24,Smartfony,3500,5000,1.6
+13,Xiaomi 14,Smartfony,2500,3500,1.4
+14,Google Pixel 8,Smartfony,3000,4000,1.0
+15,OnePlus 12,Smartfony,2800,3800,0.9
+16,Pralka Bosch,AGD,1800,2800,1.0
+17,Lodowka Samsung,AGD,2500,4000,0.9
+18,Zmywarka Siemens,AGD,1500,2500,1.1
+19,Odkurzacz Dyson,AGD,1200,2500,1.3
+20,Ekspres do kawy DeLonghi,AGD,800,2000,1.5
+21,Soundbar LG,RTV,600,1500,1.2
+22,Projektor Epson,RTV,2000,4000,0.7
+23,Odtwarzacz Blu-ray,RTV,400,800,0.6
+24,Radio internetowe,RTV,200,500,0.8
+25,Wzmacniacz audio,RTV,1000,2500,0.5
+26,Sukienka letnia,Moda_Damska,80,200,1.3
+27,Plaszcz zimowy damski,Moda_Damska,300,600,1.0
+28,Torebka skorzana,Moda_Damska,150,400,1.4
+29,Buty na obcasie,Moda_Damska,120,300,1.2
+30,Sweter kaszmirowy,Moda_Damska,200,500,0.9
+31,Koszula biznesowa,Moda_Meska,100,250,1.2
+32,Garnitur elegancki,Moda_Meska,500,1200,0.8
+33,Kurtka skorzana,Moda_Meska,400,800,1.0
+34,Spodnie jeansowe,Moda_Meska,120,280,1.4
+35,Krawat jedwabny,Moda_Meska,80,200,0.9
+36,Buty sportowe Nike,Obuwie,300,600,1.6
+37,Buty zimowe Timberland,Obuwie,400,700,1.1
+38,Sandaly letnie,Obuwie,100,250,1.3
+39,Eleganckie polbuty,Obuwie,250,500,1.0
+40,Klapki basenowe,Obuwie,50,120,1.2
+41,Rower gorski,Sport,1500,3500,1.0
+42,Hantle regulowane,Sport,200,600,1.2
+43,Mata do jogi,Sport,50,150,1.5
+44,Rakieta tenisowa,Sport,200,500,0.8
+45,Pilka do koszykowki,Sport,80,200,1.1
+46,Bestseller literacki,Ksiazki,30,60,1.8
+47,Podrecznik akademicki,Ksiazki,80,150,1.2
+48,Ksiazka dla dzieci,Ksiazki,25,50,1.5
+49,Slownik jezykowy,Ksiazki,40,100,0.7
+50,Encyklopedia,Ksiazki,100,250,0.5
+51,Plyta winylowa,Muzyka,80,200,0.9
+52,Album CD,Muzyka,30,60,0.7
+53,Sluchawki studyjne,Muzyka,300,700,0.8
+54,Statyw mikrofonowy,Muzyka,100,250,0.5
+55,Gitara akustyczna,Muzyka,400,1000,0.6
+56,Film DVD,Filmy,30,60,0.8
+57,Film Blu-ray,Filmy,50,100,0.9
+58,Seria HBO Box,Filmy,100,200,0.7
+59,Film 4K UHD,Filmy,80,150,0.6
+60,Klasyka kina zestaw,Filmy,60,120,0.5
+61,Gra PS5,Gry,200,350,1.5
+62,Gra Nintendo Switch,Gry,150,300,1.4
+63,Gra PC,Gry,100,250,1.6
+64,Konsola Xbox,Gry,1500,2500,1.0
+65,Kontroler bezprzewodowy,Gry,200,400,1.3
+66,Klocki LEGO,Zabawki,100,500,1.8
+67,Lalka Barbie,Zabawki,50,150,1.4
+68,Zestaw Hot Wheels,Zabawki,80,200,1.3
+69,Puzzle 1000 elementow,Zabawki,40,100,1.1
+70,Gra planszowa,Zabawki,80,200,1.5
+71,Meble ogrodowe zestaw,Dom_i_Ogrod,800,2000,0.9
+72,Grill weglowy,Dom_i_Ogrod,300,800,1.2
+73,Kosiarki do trawy,Dom_i_Ogrod,500,1500,0.8
+74,Doniczki dekoracyjne,Dom_i_Ogrod,30,100,1.4
+75,Lampki solarne,Dom_i_Ogrod,50,150,1.3
+76,Witaminy multiwitamina,Zdrowie,30,80,1.5
+77,Termometr elektroniczny,Zdrowie,40,100,1.2
+78,Cisnieniomierz,Zdrowie,100,300,0.9
+79,Inhalator,Zdrowie,150,400,0.8
+80,Suplementy sportowe,Zdrowie,50,150,1.3
+81,Perfumy damskie,Uroda,150,500,1.6
+82,Krem nawilzajacy,Uroda,50,150,1.4
+83,Zestaw do makijazu,Uroda,100,300,1.3
+84,Suszarka do wlosow,Uroda,80,250,1.2
+85,Golarka elektryczna,Uroda,200,500,1.1
+86,Opony zimowe zestaw,Motoryzacja,800,1600,1.0
+87,Olej silnikowy,Motoryzacja,80,200,1.3
+88,Akumulator samochodowy,Motoryzacja,300,600,0.9
+89,Nawigacja GPS,Motoryzacja,400,800,0.7
+90,Zestaw narzedzi,Motoryzacja,150,400,1.1
+91,Kawa ziarnista 1kg,Artykuly_Spozywcze,40,100,2.0
+92,Czekolada premium,Artykuly_Spozywcze,15,40,1.8
+93,Oliwa z oliwek,Artykuly_Spozywcze,30,80,1.5
+94,Herbata zestaw,Artykuly_Spozywcze,20,60,1.4
+95,Miod naturalny,Artykuly_Spozywcze,25,70,1.3
+96,Karma dla psa,Zwierzeta,50,150,1.6
+97,Karma dla kota,Zwierzeta,40,120,1.7
+98,Akwarium zestaw,Zwierzeta,200,600,0.7
+99,Klatka dla chomika,Zwierzeta,80,200,0.8
+100,Legowisko dla psa,Zwierzeta,100,300,1.0

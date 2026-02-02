@@ -1,0 +1,22 @@
+{
+  "temperature": [
+    0,
+    200
+  ],
+  "vibration": [
+    0,
+    100
+  ],
+  "speed": [
+    0,
+    150
+  ],
+  "fuel_consumption": [
+    0,
+    100
+  ],
+  "load": [
+    0,
+    100
+  ]
+}
