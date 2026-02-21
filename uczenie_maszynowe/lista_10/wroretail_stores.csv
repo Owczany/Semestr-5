@@ -1,0 +1,11 @@
+store_id,store_name,city,store_type,opening_year,sales_multiplier
+1,WroRetail Wroclaw Centrum,Wroclaw,hipermarket,2015,1.5
+2,WroRetail Warszawa Mokotow,Warszawa,hipermarket,2016,1.6
+3,WroRetail Krakow Galeria,Krakow,supermarket,2017,1.0
+4,WroRetail Poznan Stary Browar,Poznan,supermarket,2018,1.0
+5,WroRetail Gdansk Przymorze,Gdansk,supermarket,2019,1.1
+6,WroRetail Lodz Manufaktura,Lodz,convenience,2020,0.6
+7,WroRetail Katowice Silesia,Katowice,convenience,2020,0.6
+8,WroRetail Wroclaw Magnolia,Wroclaw,supermarket,2021,0.9
+9,WroRetail Warszawa Arkadia,Warszawa,hipermarket,2019,1.5
+10,WroRetail Szczecin Galaxy,Szczecin,convenience,2021,0.5

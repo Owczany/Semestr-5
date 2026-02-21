@@ -1,0 +1,81 @@
+date,holiday_name,is_public_holiday,is_shopping_boost,category_boost
+2021-01-01,Nowy Rok,1,0,
+2021-01-06,Trzech Kroli,1,0,
+2021-02-14,Walentynki,0,1,Uroda;Moda_Damska
+2021-03-08,Dzien Kobiet,0,1,Uroda;Moda_Damska
+2021-04-04,Wielkanoc,1,0,
+2021-04-05,Poniedzialek Wielkanocny,1,0,
+2021-05-01,Swieto Pracy,1,0,
+2021-05-03,Konstytucja 3 Maja,1,0,
+2021-05-23,Zielone Swiatki,1,0,
+2021-06-01,Dzien Dziecka,0,1,Zabawki
+2021-06-03,Boze Cialo,1,0,
+2021-08-15,Wniebowziecie NMP,1,0,
+2021-09-01,Poczatek roku szkolnego,0,1,Ksiazki;Komputery
+2021-11-01,Wszystkich Swietych,1,0,
+2021-11-11,Swieto Niepodleglosci,1,0,
+2021-11-26,Black Friday,0,1,Elektronika;Smartfony;RTV;AGD;Gry
+2021-11-29,Cyber Monday,0,1,Elektronika;Smartfony;Komputery
+2021-12-06,Mikolajki,0,1,Zabawki;Gry
+2021-12-25,Boze Narodzenie,1,0,
+2021-12-26,Drugi dzien swiat,1,0,
+2022-01-01,Nowy Rok,1,0,
+2022-01-06,Trzech Kroli,1,0,
+2022-02-14,Walentynki,0,1,Uroda;Moda_Damska
+2022-03-08,Dzien Kobiet,0,1,Uroda;Moda_Damska
+2022-04-17,Wielkanoc,1,0,
+2022-04-18,Poniedzialek Wielkanocny,1,0,
+2022-05-01,Swieto Pracy,1,0,
+2022-05-03,Konstytucja 3 Maja,1,0,
+2022-06-01,Dzien Dziecka,0,1,Zabawki
+2022-06-05,Zielone Swiatki,1,0,
+2022-06-16,Boze Cialo,1,0,
+2022-08-15,Wniebowziecie NMP,1,0,
+2022-09-01,Poczatek roku szkolnego,0,1,Ksiazki;Komputery
+2022-11-01,Wszystkich Swietych,1,0,
+2022-11-11,Swieto Niepodleglosci,1,0,
+2022-11-25,Black Friday,0,1,Elektronika;Smartfony;RTV;AGD;Gry
+2022-11-28,Cyber Monday,0,1,Elektronika;Smartfony;Komputery
+2022-12-06,Mikolajki,0,1,Zabawki;Gry
+2022-12-25,Boze Narodzenie,1,0,
+2022-12-26,Drugi dzien swiat,1,0,
+2023-01-01,Nowy Rok,1,0,
+2023-01-06,Trzech Kroli,1,0,
+2023-02-14,Walentynki,0,1,Uroda;Moda_Damska
+2023-03-08,Dzien Kobiet,0,1,Uroda;Moda_Damska
+2023-04-09,Wielkanoc,1,0,
+2023-04-10,Poniedzialek Wielkanocny,1,0,
+2023-05-01,Swieto Pracy,1,0,
+2023-05-03,Konstytucja 3 Maja,1,0,
+2023-05-28,Zielone Swiatki,1,0,
+2023-06-01,Dzien Dziecka,0,1,Zabawki
+2023-06-08,Boze Cialo,1,0,
+2023-08-15,Wniebowziecie NMP,1,0,
+2023-09-01,Poczatek roku szkolnego,0,1,Ksiazki;Komputery
+2023-11-01,Wszystkich Swietych,1,0,
+2023-11-11,Swieto Niepodleglosci,1,0,
+2023-11-24,Black Friday,0,1,Elektronika;Smartfony;RTV;AGD;Gry
+2023-11-27,Cyber Monday,0,1,Elektronika;Smartfony;Komputery
+2023-12-06,Mikolajki,0,1,Zabawki;Gry
+2023-12-25,Boze Narodzenie,1,0,
+2023-12-26,Drugi dzien swiat,1,0,
+2024-01-01,Nowy Rok,1,0,
+2024-01-06,Trzech Kroli,1,0,
+2024-02-14,Walentynki,0,1,Uroda;Moda_Damska
+2024-03-08,Dzien Kobiet,0,1,Uroda;Moda_Damska
+2024-03-31,Wielkanoc,1,0,
+2024-04-01,Poniedzialek Wielkanocny,1,0,
+2024-05-01,Swieto Pracy,1,0,
+2024-05-03,Konstytucja 3 Maja,1,0,
+2024-05-19,Zielone Swiatki,1,0,
+2024-05-30,Boze Cialo,1,0,
+2024-06-01,Dzien Dziecka,0,1,Zabawki
+2024-08-15,Wniebowziecie NMP,1,0,
+2024-09-01,Poczatek roku szkolnego,0,1,Ksiazki;Komputery
+2024-11-01,Wszystkich Swietych,1,0,
+2024-11-11,Swieto Niepodleglosci,1,0,
+2024-11-29,Black Friday,0,1,Elektronika;Smartfony;RTV;AGD;Gry
+2024-12-02,Cyber Monday,0,1,Elektronika;Smartfony;Komputery
+2024-12-06,Mikolajki,0,1,Zabawki;Gry
+2024-12-25,Boze Narodzenie,1,0,
+2024-12-26,Drugi dzien swiat,1,0,
